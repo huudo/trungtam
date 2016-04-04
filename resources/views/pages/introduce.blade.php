@@ -5,7 +5,7 @@
 	<div class="row">
 		<div class="col-md-12">
 			<div class="img_intro">
-					<img src="{{Asset('public/images/1.jpg')}}">
+					<img src="{{Asset('public/images/introduce.jpg')}}">
 			</div>
 			<div class="content_intro">
 				<h1>1.ESP ENGLISH</h1>
